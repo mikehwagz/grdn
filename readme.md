@@ -1,3 +1,3 @@
-# Hi mom!
+# Hi mom
 
 Lorem ipsum
